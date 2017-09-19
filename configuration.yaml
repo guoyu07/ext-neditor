@@ -6,4 +6,4 @@ author:
     - notadd@ibenchu.com
 provider: Notadd\Neditor\Extension
 publishes:
-    assets/extensions/notadd/neditor: resources/mixes
+    assets/extensions/notadd/neditor/editor: resources/mixes/editor
