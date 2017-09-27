@@ -4,6 +4,6 @@ description:
 author:
     - Notadd
     - notadd@ibenchu.com
-provider: Notadd\Neditor\Extension
+provider: Notadd\Neditor\Addon
 publishes:
     assets/extensions/notadd/neditor/editor: resources/mixes/editor
