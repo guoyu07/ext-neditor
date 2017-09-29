@@ -5,7 +5,7 @@ module.exports = {
     build: {
         env: require('./prod.env'),
         assetsRoot: path.resolve(__dirname, '../dist'),
-        assetsSubDirectory: 'assets/addons/notadd/neditor',
+        assetsSubDirectory: 'assets/addons/notadd/neditor/administration',
         assetsPublicPath: '/',
         entry: {
             addon: './src/main.js'

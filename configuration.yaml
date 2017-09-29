@@ -5,5 +5,11 @@ author:
     - Notadd
     - notadd@ibenchu.com
 provider: Notadd\Neditor\Addon
+assets:
+    administration:
+        notadd/neditor:
+            permissions:
+            scripts: assets/addons/notadd/neditor/administration/js/addon.min.js
 publishes:
-    assets/extensions/notadd/neditor/editor: resources/mixes/editor
+    assets/addons/notadd/neditor/editor: resources/mixes/editor
+    assets/addons/notadd/neditor/administration: resources/mixes/administration/dist/assets/addons/notadd/neditor/administration
