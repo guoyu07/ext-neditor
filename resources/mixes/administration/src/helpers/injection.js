@@ -2,6 +2,6 @@ import NEditor from '../components/NEditor.vue';
 
 export default {
     install(instance) {
-        instance.vue.component('n-editor', NEditor);
+        instance.Vue.component('n-editor', NEditor);
     },
 };
