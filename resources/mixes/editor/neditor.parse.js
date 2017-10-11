@@ -1,7 +1,7 @@
 /*!
  * neditor parse
  * version: 2.0.0
- * build: Tue Sep 19 2017 12:37:54 GMT+0800 (CST)
+ * build: Sat Sep 30 2017 18:26:47 GMT+0800 (中国标准时间)
  */
 
 (function(){
